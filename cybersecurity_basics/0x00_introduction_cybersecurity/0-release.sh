@@ -1,3 +1,2 @@
 #!/bin/bash
-
-cat /etc/os-release
+grep "^ID="  /etc/os-release | cut -d= -f2
