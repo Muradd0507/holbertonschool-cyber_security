@@ -1,2 +1,2 @@
 #!/bin/bash
-subfinder $1 >> $1.txt
+subfinder -ip -d $1 >> $1.txt
