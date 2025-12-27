@@ -1,2 +1,2 @@
 #!/bin/bash
-awk --csv whois
+awk --csv whois Registrant
