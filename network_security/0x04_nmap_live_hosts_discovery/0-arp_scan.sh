@@ -1,2 +1,2 @@
 #!/bin/bash
-nmap -Pn $1
+sudo map -Pn $1
