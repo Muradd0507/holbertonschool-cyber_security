@@ -1,2 +1,2 @@
 #!/bin/bash
-curl -X GET -H "Host: $1" -d "$3" "$2"
+sudo curl -X GET -H "Host: $1" -d "$3" "$2"
