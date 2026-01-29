@@ -1,1 +1,1 @@
-https://github.com/CodeByZach/pace/blob/master/templates/pace-theme-barber-shop.tmpl.css
+https://codebyzach.github.io/pace/
