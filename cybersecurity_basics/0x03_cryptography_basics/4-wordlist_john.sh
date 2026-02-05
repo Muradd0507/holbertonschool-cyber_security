@@ -1,2 +1,2 @@
 #!/bin/bash
-john $1 --wordlist=rockyou.txt > 4-password.txt
+john --format=raw-md5 --wordlist=rockyou.txt $1 > 4-password.txt
