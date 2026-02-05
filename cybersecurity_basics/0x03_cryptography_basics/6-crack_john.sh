@@ -1,2 +1,2 @@
 #!/bin/bash
-john $1 > 6-password.txt
+john --format=raw-sha256 $1 > 6-password.txt
