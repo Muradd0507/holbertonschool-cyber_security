@@ -1,3 +1,3 @@
 #!/bin/bash
-adduser $1 -p $2
+useradd $1 -p $2
 
