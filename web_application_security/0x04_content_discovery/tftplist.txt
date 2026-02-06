@@ -1,0 +1,17 @@
+flag
+flag.txt
+FLAG
+FLAG.txt
+web0x04
+web0x04.txt
+root
+root.txt
+data
+data.txt
+file
+file.txt
+backup
+backup.txt
+test
+test.txt
+
