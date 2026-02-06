@@ -1,4 +1,4 @@
 #!/bin/bash
-addgroup $2
-chgrp $1 $2
-chmod g+rx $1
+addgroup $1
+chown :$1 $2
+chmod g+rx $2
