@@ -1,2 +1,2 @@
 #!/bin/bash
-find $1 -type f -exec chmod +rwx {}\;
+find $1 -type f -empty -exec chmod +rwx {}\;
